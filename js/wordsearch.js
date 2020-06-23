@@ -28,7 +28,7 @@
       'directions': ['W', 'N', 'WN', 'EN'],
       'gridSize': 18,
       'words': [
-	     'throne',
+	     'thron',
 		'palace',
 		'tradition',
 		'family',
