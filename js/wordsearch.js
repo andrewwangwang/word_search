@@ -91,7 +91,7 @@
 	  
 	  //added by bob to show score - require score function in the bob script
 	  var currentscore = score();
-	  document.getElementById("score").innerHTML = "Found " + currentscore + " out of " + this.settings.words.length + " words so far.";
+	  document.getElementById("score").innerHTML = "Highlighted " + currentscore + " out of " + this.settings.words.length + " words so far.";
     }
   }
 
