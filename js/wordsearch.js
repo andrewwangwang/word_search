@@ -575,7 +575,7 @@
 	  
 	  if(document.getElementById(words[0]).getAttribute("text-decoration") == 'none') {
 		var currentscore = score();
-	  	document.getElementById("score").innerHTML = "Found " + currentscore + " out of " + this.settings.words.length + " words so far.";
+	  	document.getElementById("score").innerHTML = "Highlighted " + currentscore + " out of " + this.settings.words.length + " words so far.";
 		document.getElementById(words[0]).style.setProperty("text-decoration", "line-through");
 		document.getElementById(words[0]).setAttribute("text-decoration", "line-through");
 	  }
