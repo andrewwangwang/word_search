@@ -26,7 +26,7 @@
     // Default settings
     var default_settings = {
       'directions': ['W', 'N', 'WN', 'EN'],
-      'gridSize': 18,
+      'gridSize': 30,
       'words': [
 	     'thron',
 		'palace',
